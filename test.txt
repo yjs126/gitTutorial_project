@@ -1,2 +1,3 @@
 test project start!
 featureA working file
+hello B
