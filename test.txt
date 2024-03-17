@@ -1,3 +1,4 @@
 test project start!
 hello B
 HEAD move test
+try move origin/HEAD to origin/featureB
